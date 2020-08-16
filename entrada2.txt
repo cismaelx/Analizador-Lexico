@@ -1,0 +1,4 @@
+entero a = 2.5
+entero b = 0.5
+entero resta = a - b
+imprimir resta

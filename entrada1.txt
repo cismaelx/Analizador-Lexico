@@ -1,0 +1,4 @@
+entero a = 50
+entero b = 25
+entero suma = a + b
+imprimir suma

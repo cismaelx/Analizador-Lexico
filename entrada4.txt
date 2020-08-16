@@ -1,0 +1,10 @@
+cadena asignatura = Lenguajes de Programación
+entero a = 25
+entero b = 5
+entero c = 2
+entero d = 1.5
+si b * b = a entonces
+c / d = 1
+sino
+imprimir Ocurrio un error en la clase asignatura
+

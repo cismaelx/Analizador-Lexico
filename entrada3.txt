@@ -1,0 +1,8 @@
+entero a = 50
+entero b = 50
+entero res = a + b
+imprimir res
+si res = 100 entonces
+imprimir resultado correcto
+sino
+imprimir resultado incorrecto
